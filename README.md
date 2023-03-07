@@ -1,2 +1,2 @@
-# Perceptron_from_scratch
-Perceptron_from_scratch
+# Perceptron-from-scratch
+Perceptron-from-scratch
